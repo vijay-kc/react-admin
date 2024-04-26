@@ -1,3 +1,7 @@
+# output
+![Screenshot 2024-04-27 022820](https://github.com/vijay-kc/react-admin/assets/118093154/00d234a3-b794-432d-adfa-fb5cc7e4d9b0)
+![Screenshot 2024-04-27 022804](https://github.com/vijay-kc/react-admin/assets/118093154/8aff4f45-95ef-4960-b5a7-fc21d2b2f9de)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
